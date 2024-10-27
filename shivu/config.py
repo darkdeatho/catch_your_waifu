@@ -2,18 +2,18 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    OWNER_ID = "6765826972"
-    sudo_users = "6845325416", "6765826972"
-    GROUP_ID = -1002133191051
-    TOKEN = "6707490163:AAHZzqjm3rbEZsObRiNaT7DMtw_i5WPo_0o"
+    OWNER_ID = "7079236910"
+    sudo_users = "7079236910"
+    GROUP_ID = -1002206526478
+    TOKEN = "7895329270:AAGKuBEYNcklXeaRSgYXOuJ3Wb9jVcY3ka0"
     mongo_url = "mongodb+srv://HaremDBBot:ThisIsPasswordForHaremDB@haremdb.swzjngj.mongodb.net/?retryWrites=true&w=majority"
-    PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
-    SUPPORT_CHAT = "Collect_em_support"
-    UPDATE_CHAT = "Collect_em_support"
-    BOT_USERNAME = "Collect_Em_AllBot"
-    CHARA_CHANNEL_ID = "-1002133191051"
-    api_id = 26626068
-    api_hash = "bf423698bcbe33cfd58b11c78c42caa2"
+    PHOTO_URL = ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fnayareen%2Fart%2FMikasa-Ackerman-Tribute-984497035"]
+    SUPPORT_CHAT = "waifucatcher00"
+    UPDATE_CHAT = "waifucatcher00"
+    BOT_USERNAME = "Marvelous_Waifu_Husbando_Bot"
+    CHARA_CHANNEL_ID = "-1002420677845"
+    api_id = 27152394
+    api_hash = "f21ea95912cfd67e97df54c142191f20"
 
     
 class Production(Config):
